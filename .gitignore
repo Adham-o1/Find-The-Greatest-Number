@@ -1,0 +1,14 @@
+﻿.vscode/
+*.exe
+*.dll
+*.pdb
+/build/
+/bin/
+/obj/
+/out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.DS_Store
+Thumbs.db
